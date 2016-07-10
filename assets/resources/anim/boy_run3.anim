@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boy_run3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f82b99aa-85be-4658-830e-61b5376ef08f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "8429fa4b-a71d-454c-ab6b-a0375c54d9d1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8429fa4b-a71d-454c-ab6b-a0375c54d9d1"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "52aa54a6-cca6-47cf-9a2f-d62617e03b9e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

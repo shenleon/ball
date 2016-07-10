@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.ball",
+  "startScene": "a6dd118b-fe53-4b7c-b808-2595a329a8de",
+  "title": "ball",
+  "webOrientation": "auto"
+}
